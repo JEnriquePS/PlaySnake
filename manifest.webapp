@@ -1,0 +1,12 @@
+{
+  "name": "snakeado",
+  "description": "Demuestra hata que nivel puedes llegar",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "developer": {
+    "name": "JEnriquePS",
+    "url": "https://www.facebook.com/jesus.penasiguas"
+  }
+}
